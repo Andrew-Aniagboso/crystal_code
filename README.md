@@ -5,7 +5,9 @@
 # 🧱 crystal_code
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python Version">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python Version">
+  </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT">
   </a>
