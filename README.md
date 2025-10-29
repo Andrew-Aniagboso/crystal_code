@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python Version">
-  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT">
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License: MIT"> (LICENSE)
   <img src="https://img.shields.io/badge/platform-macOS%20|%20Linux%20|%20Windows-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions">
   <img src="https://img.shields.io/github/last-commit/Andrew-Aniagboso/crystal_code?color=blue&label=Last%20Commit" alt="Last Commit">
